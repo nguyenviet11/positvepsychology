@@ -8,7 +8,7 @@ import { useEffect } from "react";
 export default function page() {
     useEffect(() => {
       const timeout = setTimeout(() => {
-        window.location.href = "";
+        window.location.href = "https://pro.positivepsychology.com/?ref=479";
       }, 300);
       return () => clearTimeout(timeout);
       }, []);
@@ -16,7 +16,7 @@ export default function page() {
     <div>
       <main className={styles.main}>
         <h3 className={styles.text}>
-        DMarket Official Site{" "}
+        Positive Psychology Official Site{" "}
           <span
             style={{ transform: "translate(0px)", display: "inline-block" }}
           >
