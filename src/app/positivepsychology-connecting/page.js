@@ -16,7 +16,7 @@ export default function page() {
     <div>
       <main className={styles.main}>
         <h3 className={styles.text}>
-        Positive Psychology Official Site{" "}
+        Positive Psychology Official Site{""}
           <span
             style={{ transform: "translate(0px)", display: "inline-block" }}
           >
